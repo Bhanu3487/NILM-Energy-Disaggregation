@@ -1,6 +1,4 @@
 # NILM-Energy-Dissaggregation-
-Certainly! Here's the formatted version for your README.md file:
-
 ---
 
 ## Project Overview
